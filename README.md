@@ -1,0 +1,2 @@
+Hi this is basic stater code for a recipe app and i am just a beginner in Mern stack actully only a week into it and this code is just pure backend.And i know i can add many stuffs like-zod hashing 
+the password with argon and cookies and use cors and many more but i try to keep the basic version of it because this is just the starter code.I will try to upload the entire project with the frontend,
