@@ -8,7 +8,7 @@ app.use('/user',userrouter);
 
 
 async function main(){
-    await mongoose.connect('mongodb+srv://raghuttama03:samera2007@cluster0.sylhh.mongodb.net/recipe');
+    await mongoose.connect("YOur Mongodb url);
     app.listen(3000,()=>{
         console.log("server started");
     })
